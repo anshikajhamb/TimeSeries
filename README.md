@@ -1,3 +1,5 @@
+Please download the pynb file to your local system in case the code takes time to load on github :)
+
 The	dataset	TimeSeries.csv	represents	the	recording of	a	number	of	variables for	
 admitted patients.	 The	 data	 was obtained	 over	 the	 first	 24	 hours	 of	 hospital	
 admission.	
